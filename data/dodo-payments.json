@@ -1,0 +1,124 @@
+{
+  "company": "Dodo Payments",
+  "slug": "dodo-payments",
+  "researchedAt": "2026-08-25",
+  "overview": {
+    "description": "Dodo Payments is a Bengaluru-based startup that helps small software and AI companies sell their products worldwide. It bundles together payment processing, subscription billing, and handling all the local tax paperwork, so a small team doesn't have to figure out international tax rules or set up their own way to charge customers.",
+    "founded": "2024",
+    "headquarters": "Bengaluru, India",
+    "industry": "Fintech (financial technology) — online payments & billing tools",
+    "parent": null,
+    "currentLeader": { "name": "Rishabh Goel", "role": "Co-founder & CEO" },
+    "vision": "To become the default way that the next generation of digital products make money.",
+    "problemsSolved": [
+      "Lets small software/AI teams sell to customers in other countries without having to register as a legal seller and handle taxes in every one of those countries themselves",
+      "Combines payments, subscription billing, and selling license keys/downloads into one tool instead of several separate ones",
+      "Supports billing models where customers pay based on how much they use (like per AI request), not just flat monthly fees",
+      "Reportedly approves new sellers faster than bigger competitors, according to some user accounts — especially helpful for independent developers in India"
+    ],
+    "stats": {
+      "monthlyUsers": "The company claims 50,000+ builders/founders use it — this is a number the company reports about itself, not confirmed by an outside source",
+      "valuation": null,
+      "employees": "~65-72 (2026)",
+      "revenue": "Reported at about ₹9.0 lakh (roughly $10,800) for the 2025 financial year, per business-news outlet Inc42 — not confirmed by a second source"
+    },
+    "confidence": "reported",
+    "sources": [
+      { "url": "https://dodopayments.com/about", "label": "Dodo Payments — About (official)" },
+      { "url": "https://dodopayments.com", "label": "Dodo Payments — homepage (official)" },
+      { "url": "https://inc42.com/company/dodo-payments/", "label": "Inc42" },
+      { "url": "https://tracxn.com/d/companies/dodo-payments/__gd4LAG8sid7fH3BYl5wYs_OlbZlBQMIIOc80O5VZn2I", "label": "Tracxn" }
+    ]
+  },
+  "businessModel": {
+    "summary": "Charges a fee on each payment it processes for its customers — the same basic idea as competitors Paddle and Lemon Squeezy. The exact fee percentage isn't published anywhere or confirmed independently.",
+    "items": [
+      { "stream": "Payment fees", "detail": "Dodo officially becomes the seller on record for each purchase and takes a cut of every payment it processes on a customer's behalf." },
+      { "stream": "Tax handling included in the fee", "detail": "That same fee also covers dealing with tax paperwork, billing logic, fraud checks, and paying out the money — extra work a business would otherwise have to do itself." }
+    ],
+    "confidence": "reported",
+    "sources": [
+      { "url": "https://dodopayments.com/about", "label": "Dodo Payments — About (official)" }
+    ]
+  },
+  "founders": {
+    "items": [
+      { "name": "Rishabh Goel", "role": "Co-founder & CEO", "background": "Previously worked at the fintech companies Wise and Prodigy Finance before co-founding Dodo Payments." },
+      { "name": "Ayush Agarwal", "role": "Co-founder & Chief Product & Technology Officer", "background": "Previously started Tournafest, a platform for gamers, before co-founding Dodo Payments." }
+    ],
+    "confidence": "verified",
+    "sources": [
+      { "url": "https://dodopayments.com/about", "label": "Dodo Payments — About (official)" },
+      { "url": "https://inc42.com/company/dodo-payments/", "label": "Inc42" },
+      { "url": "https://www.bwdisrupt.com/article/dodo-payments-bags-11-mn-pre-seed-funding-from-venture-catalysts-9unicorns-antler-549086", "label": "BW Disrupt" }
+    ]
+  },
+  "timeline": {
+    "items": [
+      { "year": "2024", "event": "Rishabh Goel and Ayush Agarwal start Dodo Payments in Bengaluru to help SaaS/AI companies handle payments and billing." },
+      { "year": "2025", "event": "Raises $1.1 million in its first outside funding round (announced Feb 25), with investment firms Antler, Venture Catalysts, and 100Unicorns, plus individual investors including a former a16z partner and someone previously connected to Oyo/Lightspeed." },
+      { "year": "2025-2026", "event": "Expands beyond payments/billing into helping sellers set up online storefronts and manage license keys, and launches Sentra, an AI assistant that helps manage billing and payments from inside a developer's coding tools." }
+    ],
+    "confidence": "verified",
+    "sources": [
+      { "url": "https://dodopayments.com/blogs/dodo-payments-raises-1-1m-to-simplify-global-payments", "label": "Dodo Payments — funding announcement (official)" },
+      { "url": "https://inc42.com/company/dodo-payments/", "label": "Inc42" },
+      { "url": "https://tracxn.com/d/companies/dodo-payments/__gd4LAG8sid7fH3BYl5wYs_OlbZlBQMIIOc80O5VZn2I", "label": "Tracxn" }
+    ]
+  },
+  "funding": {
+    "items": [
+      { "round": "First funding round (very early stage)", "year": "2025", "amount": "$1.1M", "valuation": "Not disclosed", "investor": "Antler, Venture Catalysts, 100Unicorns (firms); individual investors Nitin Gupta, Maninder Gulati, Raymond Russell, Preethi Kasireddy, Nishant Verman" }
+    ],
+    "confidence": "verified",
+    "sources": [
+      { "url": "https://dodopayments.com/blogs/dodo-payments-raises-1-1m-to-simplify-global-payments", "label": "Dodo Payments — funding announcement (official)" },
+      { "url": "https://tracxn.com/d/companies/dodo-payments/__gd4LAG8sid7fH3BYl5wYs_OlbZlBQMIIOc80O5VZn2I", "label": "Tracxn" },
+      { "url": "https://inc42.com/company/dodo-payments/", "label": "Inc42" }
+    ]
+  },
+  "products": {
+    "items": ["Payments (40+ payment methods, 220+ countries)", "Subscription & usage-based billing", "Storefronts, license keys & digital delivery", "Sentra (AI assistant for managing billing/payments)", "Tax & compliance handling"],
+    "confidence": "verified",
+    "sources": [
+      { "url": "https://dodopayments.com", "label": "Dodo Payments — homepage (official)" }
+    ]
+  },
+  "challenges": {
+    "items": [
+      {
+        "challenge": "Stripe now offers the same core service",
+        "details": "In 2026, Stripe — a much bigger, more established payments company — launched its own version of what Dodo offers (becoming the seller-of-record and handling tax paperwork for digital businesses), built partly using a company it had acquired. Stripe has far more customers, brand recognition, and resources than Dodo does."
+      },
+      {
+        "challenge": "The investors listed on its own website don't match what's publicly confirmed",
+        "details": "Dodo Payments' About page says it's backed by well-known investment firms Andreessen Horowitz, Lightspeed, Canaan, plus Visa, Goldman Sachs, and AWS. But the company's own funding announcement and independent company-data sites (Tracxn, Inc42) only show a $1.1 million first funding round from smaller firms (Antler, Venture Catalysts, 100Unicorns). The well-known firm names only show up because a couple of individual investors used to work there — not because those firms actually invested. Worth asking about directly if it comes up."
+      }
+    ],
+    "confidence": "verified",
+    "sources": [
+      { "url": "https://stripe.com/managed-payments", "label": "Stripe — Managed Payments (official)" },
+      { "url": "https://stripe.com/blog/everything-we-announced-at-sessions-2026", "label": "Stripe Blog — Sessions 2026 (official)" },
+      { "url": "https://dodopayments.com/about", "label": "Dodo Payments — About (official)" },
+      { "url": "https://dodopayments.com/blogs/dodo-payments-raises-1-1m-to-simplify-global-payments", "label": "Dodo Payments — funding announcement (official)" },
+      { "url": "https://tracxn.com/d/companies/dodo-payments/__gd4LAG8sid7fH3BYl5wYs_OlbZlBQMIIOc80O5VZn2I", "label": "Tracxn" }
+    ]
+  },
+  "jobInsights": {
+    "items": [
+      {
+        "category": "Engineering",
+        "text": "The interview includes a system-design conversation (about how to keep things reliable and handle unusual edge cases) plus a 1-2 day take-home coding assignment done solo, followed by a review discussion. Experience with the Rust programming language is a plus. This is based on only a couple of Glassdoor reviews and hasn't been checked against another source."
+      },
+      {
+        "category": "General culture",
+        "text": "The few available reviews describe a culture that's growth-focused and hands-off (little micromanaging), with people given real ownership of their work — fitting for a small (~65-70 person) young company. Only 2 Glassdoor reviews exist, so treat this as a weak signal, not a solid read on what it's really like to work there."
+      }
+    ],
+    "confidence": "reported",
+    "sources": [
+      { "url": "https://www.glassdoor.com/Reviews/Dodo-Payments-Reviews-E10103878.htm", "label": "Glassdoor — Reviews" },
+      { "url": "https://www.glassdoor.com/Interview/Dodo-Payments-Interview-Questions-E10103878.htm", "label": "Glassdoor — Interview questions" }
+    ]
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "company": "The Mood Space",
+  "slug": "the-mood-space",
+  "researchedAt": "2026-08-25",
+  "overview": {
+    "description": "The Mood Space is a Mumbai-based online therapy service. People can talk to a licensed therapist by phone or video call, confidentially, if they're dealing with stress, anxiety, depression, or similar concerns. It also sells mental-health programs to companies for their employees.",
+    "founded": "2019 (May)",
+    "headquarters": "Mumbai, India",
+    "industry": "Health tech — online mental health & therapy",
+    "parent": null,
+    "currentLeader": { "name": "Vidhi Tamboli", "role": "Co-founder" },
+    "vision": "To be a generation that sees 'No Stigma' — making therapy accessible and something people can trust, from the comfort of home.",
+    "problemsSolved": [
+      "Reduces the shame/stigma around going to therapy in India, where mental health is still often seen as a taboo subject",
+      "Makes therapy easier to access by phone/video instead of requiring an in-person clinic visit",
+      "Addresses the fact that a lot of people simply don't know what therapy actually involves",
+      "Gives companies ready-made mental health programs (workshops, crisis support, support groups) for their employees"
+    ],
+    "stats": {
+      "monthlyUsers": null,
+      "valuation": null,
+      "employees": "~55-57 (2026)",
+      "revenue": null
+    },
+    "confidence": "verified",
+    "sources": [
+      { "url": "https://care.themoodspace.com/aboutus", "label": "The Mood Space — About Us (official)" },
+      { "url": "https://care.themoodspace.com/ourstory", "label": "The Mood Space — Our Story (official)" },
+      { "url": "https://inc42.com/company/the-mood-space/", "label": "Inc42" },
+      { "url": "https://tracxn.com/d/companies/the-mood-space/__MwJiwnIa7Xx4CGcvTEJhh9MzWq94w5-kdpeZzN3JSVE", "label": "Tracxn" }
+    ]
+  },
+  "businessModel": {
+    "summary": "Self-funded (no outside investors) — makes money two ways: selling therapy sessions directly to individuals, and selling wellness programs to companies.",
+    "items": [
+      { "stream": "Individual & couples therapy sessions", "detail": "People pay per session or buy a package of sessions, booked through the app or website and held over phone or video call." },
+      { "stream": "Company wellness programs", "detail": "Businesses pay for workshops, support groups, mindfulness sessions, and crisis support for their employees." }
+    ],
+    "confidence": "verified",
+    "sources": [
+      { "url": "https://care.themoodspace.com/aboutus", "label": "The Mood Space — About Us (official)" }
+    ]
+  },
+  "founders": {
+    "items": [
+      {
+        "name": "Vidhi Tamboli (also goes by Vidhi Merchant)",
+        "role": "Co-founder & Psychologist",
+        "background": "Studied psychology & economics at the University of Virginia, then counseling psychology at Columbia University. Worked as a school counselor before co-founding The Mood Space."
+      },
+      {
+        "name": "Rhea Sawhney",
+        "role": "Co-founder",
+        "background": "Studied marketing & management at the University of Virginia, with a digital marketing certificate from Cornell. Met Vidhi as undergrads in Virginia; runs the business side of the company."
+      },
+      {
+        "name": "Vishwa Modi",
+        "role": "Co-founder & Chief Psychologist (this title is self-reported — she isn't listed on the company's own About page)",
+        "background": "Has a master's in clinical psychology and neuropsychology; works as a trauma-care therapist. She lists herself as a co-founder of The Mood Space on LinkedIn and another bio page, but The Mood Space's own website and independent press don't confirm this — worth asking about directly in an interview."
+      }
+    ],
+    "confidence": "reported",
+    "sources": [
+      { "url": "https://care.themoodspace.com/aboutus", "label": "The Mood Space — About Us (official)" },
+      { "url": "https://inc42.com/company/the-mood-space/", "label": "Inc42" },
+      { "url": "https://www.linkedin.com/in/vishwa-modi-8746b2263/", "label": "Vishwa Modi — LinkedIn (self-reported)" },
+      { "url": "https://tcrindia.org/professional/vishwa-modi/", "label": "The Centre for Restoration — Vishwa Modi bio" }
+    ]
+  },
+  "timeline": {
+    "items": [
+      { "year": "2019", "event": "Vidhi Tamboli and Rhea Sawhney start The Mood Space in Mumbai, after noticing how little people around them talked openly about mental health while they were studying together in the US." },
+      { "year": "2024", "event": "Wins an 'Institutional Excellence in Healthcare — Mental Health' award (per the company's own LinkedIn post; not reported anywhere else)." }
+    ],
+    "confidence": "reported",
+    "sources": [
+      { "url": "https://care.themoodspace.com/ourstory", "label": "The Mood Space — Our Story (official)" },
+      { "url": "https://inc42.com/company/the-mood-space/", "label": "Inc42" }
+    ]
+  },
+  "funding": {
+    "items": [
+      { "round": "None — self-funded by the founders, no outside investors", "year": "2019-2026", "amount": "N/A", "valuation": "N/A", "investor": "N/A" }
+    ],
+    "confidence": "verified",
+    "sources": [
+      { "url": "https://tracxn.com/d/companies/the-mood-space/__MwJiwnIa7Xx4CGcvTEJhh9MzWq94w5-kdpeZzN3JSVE", "label": "Tracxn" },
+      { "url": "https://inc42.com/company/the-mood-space/", "label": "Inc42" }
+    ]
+  },
+  "products": {
+    "items": ["One-on-one online therapy (phone & video)", "Couples/relationship counseling", "Workplace mental health programs (workshops, support groups, mindfulness sessions)", "Crisis support for organizations"],
+    "confidence": "verified",
+    "sources": [
+      { "url": "https://care.themoodspace.com/aboutus", "label": "The Mood Space — About Us (official)" }
+    ]
+  },
+  "challenges": {
+    "items": [
+      {
+        "challenge": "Therapy is still seen as shameful or taboo by a lot of potential customers in India",
+        "details": "The company's own mission statement ('No Stigma') calls this out as the main, still-unsolved barrier to more people signing up — many people in its target market still avoid or misunderstand what therapy is."
+      },
+      {
+        "challenge": "Competing against much better-funded rivals while running on its own money",
+        "details": "Data provider Tracxn lists direct competitors Lyra Health ($915M raised from investors), Amaha ($20.6M) and Mindpeers ($808K) — compared to $0 raised by The Mood Space. That's a real gap in the money available for marketing, hiring, and growing the business."
+      },
+      {
+        "challenge": "Concerns about therapist workload and staff turnover",
+        "details": "Several reviews on the job site Glassdoor describe therapists being overworked, disagreements over how they get paid per session, and a feeling that booking client sessions is treated a bit like a sales job — worth asking about directly if interviewing for a therapist role."
+      }
+    ],
+    "confidence": "reported",
+    "sources": [
+      { "url": "https://tracxn.com/d/companies/the-mood-space/__MwJiwnIa7Xx4CGcvTEJhh9MzWq94w5-kdpeZzN3JSVE", "label": "Tracxn" },
+      { "url": "https://www.glassdoor.com/Reviews/The-Mood-Space-Reviews-E4307878.htm", "label": "Glassdoor reviews" }
+    ]
+  },
+  "jobInsights": {
+    "items": [
+      {
+        "category": "Therapists / Clinical",
+        "text": "Most of the staff here are therapists, not engineers or tech workers. Glassdoor reviews mention therapists being overworked, disagreements over session pay, and booking client sessions feeling a bit like a sales job — worth asking about directly. On the positive side, reviewers mention being able to work from home and having freedom over their own schedule without a manager looking over their shoulder."
+      },
+      {
+        "category": "General culture",
+        "text": "Glassdoor reviews are generally positive overall — people like the flexible hours and not being micromanaged — though low pay and heavy workload come up repeatedly. This fits with it being a small company running on its own money rather than a big, well-funded one."
+      }
+    ],
+    "confidence": "reported",
+    "sources": [
+      { "url": "https://www.glassdoor.com/Reviews/The-Mood-Space-Reviews-E4307878.htm", "label": "Glassdoor — Reviews" },
+      { "url": "https://www.glassdoor.co.in/Overview/Working-at-The-Mood-Space-EI_IE4307878.11,25.htm", "label": "Glassdoor — Company overview" }
+    ]
+  }
+}

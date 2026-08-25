@@ -1,0 +1,166 @@
+{
+  "company": "Stripe",
+  "slug": "stripe",
+  "researchedAt": "2026-08-25",
+  "overview": {
+    "description": "Stripe is a technology company that helps businesses accept and manage online payments — things like taking credit card payments, billing customers on a subscription, issuing debit/credit cards, and sending or receiving stablecoins (a type of digital currency).",
+    "founded": "2010",
+    "headquarters": "San Francisco, California, USA (dual headquarters with Dublin, Ireland)",
+    "industry": "Financial technology (fintech) / online payments",
+    "parent": null,
+    "currentLeader": { "name": "Patrick Collison", "role": "Co-founder & CEO" },
+    "vision": "Increase the GDP of the internet — in plain terms, grow how much business happens online.",
+    "problemsSolved": [
+      "Lets a business start accepting online payments by adding a small piece of code to its website, instead of setting up its own bank merchant account",
+      "Automatically flags and blocks likely fraudulent payments (a tool called Radar), so businesses don't have to build their own fraud detection",
+      "Handles billing, invoices, and subscriptions in one place for businesses that charge customers on a recurring basis",
+      "Lets marketplace apps (like a delivery or ride-hailing app) split and pay out money to many different sellers or drivers, without becoming a payments company themselves",
+      "Lets businesses issue their own debit/credit cards and hold or send stablecoins, without building their own banking systems from scratch"
+    ],
+    "stats": {
+      "monthlyUsers": null,
+      "valuation": "$159 billion, based on a February 2026 sale where employees and early investors were allowed to sell some of their shares",
+      "employees": "~8,000-8,500",
+      "revenue": null
+    },
+    "confidence": "verified",
+    "sources": [
+      { "url": "https://stripe.com/about", "label": "Stripe — About (official)" },
+      { "url": "https://stripe.com/newsroom/information", "label": "Stripe Newsroom (official)" },
+      { "url": "https://www.forbes.com/companies/stripe/", "label": "Forbes — Stripe company profile" },
+      { "url": "https://techcrunch.com/2026/02/24/stripes-valuation-soars-74-to-159-billion/", "label": "TechCrunch (Feb 24, 2026)" },
+      { "url": "https://www.bloomberg.com/news/articles/2026-02-24/stripe-hits-159-billion-valuation-as-payment-volume-soars", "label": "Bloomberg (Feb 24, 2026)" }
+    ]
+  },
+  "businessModel": {
+    "summary": "Mostly makes money by keeping a small cut of every payment it processes, plus extra fees from add-on tools that customers pick up over time.",
+    "items": [
+      { "stream": "Payment processing fees", "detail": "For every payment, Stripe keeps a small percentage plus a flat fee (about 2.9% + $0.30 for a typical card payment). This is Stripe's main source of revenue." },
+      { "stream": "Card network fees passed through", "detail": "Some of what a customer pays goes straight to the card networks (like Visa or Mastercard) that process the payment — Stripe passes that cost along on top of its own fee." },
+      { "stream": "Add-on tools", "detail": "Extra tools — like automatic billing, fraud protection, business banking, and card issuing — each come with their own added fee on top of payments." },
+      { "stream": "Lending fees", "detail": "Stripe also lends money to businesses upfront, against their expected future sales, and charges a fee for it — similar to a cash advance." }
+    ],
+    "confidence": "verified",
+    "sources": [
+      { "url": "https://stripe.com/about", "label": "Stripe — About (official)" }
+    ]
+  },
+  "founders": {
+    "items": [
+      {
+        "name": "Patrick Collison",
+        "role": "Co-founder & CEO",
+        "background": "Irish entrepreneur. Won a national science prize in Ireland at 16, then went to MIT. He and his brother John sold their first company — an online auction tool called Auctomatic — for $5 million in 2008, when Patrick was 19. He left MIT in 2010 to start Stripe. He's described the company's mission, \"increase the GDP of the internet,\" as also being its core strategy."
+      },
+      {
+        "name": "John Collison",
+        "role": "Co-founder & President",
+        "background": "Irish entrepreneur. Co-founded that same early company, Auctomatic, with his brother Patrick and helped sell it in 2008 at age 17, then left Harvard in 2010 to co-found Stripe."
+      }
+    ],
+    "confidence": "verified",
+    "sources": [
+      { "url": "https://www.forbes.com/profile/patrick-collison/", "label": "Forbes — Patrick Collison profile" },
+      { "url": "https://www.forbes.com/profile/john-collison/", "label": "Forbes — John Collison profile" },
+      { "url": "https://research.contrary.com/company/stripe", "label": "Contrary Research (Aug 2025)" },
+      { "url": "https://x.com/patrickc/status/1371506254359752708", "label": "Patrick Collison, @patrickc on X (Mar 2021)" }
+    ]
+  },
+  "timeline": {
+    "items": [
+      { "year": "2010", "event": "Patrick and John Collison start Stripe after joining Y Combinator (a well-known startup program), leaving MIT and Harvard to do it." },
+      { "year": "2014", "event": "Raises $80 million from investors, valuing the company at $1.75 billion." },
+      { "year": "2021", "event": "Raises $600 million, valuing the company at $95 billion — at the time, the highest valuation ever for a US startup." },
+      { "year": "2023", "event": "Raises $6.5 billion, but at a lower valuation of $50 billion (down from its 2021 peak) — mainly so employees could sell some of their shares for cash." },
+      { "year": "2024-2025", "event": "Announces (Oct 2024) and completes (Feb 2025) its biggest purchase yet: buying Bridge, a company that helps move stablecoins, for $1.1 billion." },
+      { "year": "Jan 2025", "event": "Lays off about 300 employees (around 3.5% of staff) as part of an internal reshuffle the company said wasn't about money problems, while still planning to grow to roughly 10,000 employees by year-end." },
+      { "year": "Feb 2025-Sept 2025", "event": "The company's valuation climbs back up — from $91.5 billion in February to around $107 billion by September — after another round of employees and investors selling shares." },
+      { "year": "Sept 2025", "event": "Teams up with OpenAI to let people buy things directly inside ChatGPT, and publishes a shared technical standard for letting AI assistants make purchases on a person's behalf." },
+      { "year": "Sept 2025-Mar 2026", "event": "Builds a new payments-focused network called Tempo with crypto investor Paradigm; it goes live in March 2026." },
+      { "year": "Feb 2026", "event": "Another sale of employee/investor shares values Stripe at $159 billion — about 74% higher than a year earlier — though the company still has no plans to go public (list on the stock market) soon." }
+    ],
+    "confidence": "verified",
+    "sources": [
+      { "url": "https://techcrunch.com/2014/01/22/with-an-eye-to-international-growth-payments-company-stripe-raises-80m-from-peter-thiel-khosla-and-sequoia-at-a-1-25b-valuation/", "label": "TechCrunch (Jan 2014)" },
+      { "url": "https://techcrunch.com/2021/03/14/stripe-closes-600m-round-at-a-95b-valuation/", "label": "TechCrunch (Mar 2021)" },
+      { "url": "https://techcrunch.com/2023/03/15/stripe-now-valued-at-50b-following-6-5-raise/", "label": "TechCrunch (Mar 2023)" },
+      { "url": "https://stripe.com/newsroom/news/stripe-completes-bridge-acquisition", "label": "Stripe Newsroom — Bridge acquisition (official)" },
+      { "url": "https://fortune.com/crypto/2024/10/22/stripe-announces-1-1-billion-acquisition-of-stablecoin-start-up-bridge/", "label": "Fortune (Oct 2024)" },
+      { "url": "https://techcrunch.com/2025/01/21/stripe-is-laying-off-300-people-but-says-it-still-plans-to-hire-in-2025/", "label": "TechCrunch (Jan 2025)" },
+      { "url": "https://fortune.com/2025/02/27/stripe-valuation-tech-venture-capital-silicon-valley/", "label": "Fortune (Feb 2025)" },
+      { "url": "https://stripe.com/newsroom/news/stripe-openai-instant-checkout", "label": "Stripe Newsroom — OpenAI partnership (official)" },
+      { "url": "https://www.pymnts.com/blockchain/2026/stripe-wants-reinvent-global-settlement-tempo/", "label": "PYMNTS (Feb 2026)" },
+      { "url": "https://www.coindesk.com/tech/2026/03/18/stripe-led-payments-blockchain-tempo-goes-live-with-protocol-for-ai-agents", "label": "CoinDesk (Mar 2026)" },
+      { "url": "https://techcrunch.com/2026/02/24/stripes-valuation-soars-74-to-159-billion/", "label": "TechCrunch (Feb 2026)" }
+    ]
+  },
+  "funding": {
+    "items": [
+      { "round": "Series C (a named round of investor funding)", "year": "2014", "amount": "$80M", "valuation": "$1.75B", "investor": "Founders Fund, Khosla Ventures, Sequoia Capital" },
+      { "round": "Series H", "year": "2021", "amount": "$600M", "valuation": "$95B", "investor": "Allianz X, Axa, Baillie Gifford, Fidelity, Sequoia Capital" },
+      { "round": "Series I", "year": "2023", "amount": "$6.5B", "valuation": "$50B", "investor": "GIC, Goldman Sachs Asset & Wealth Management, Temasek, a16z, Thrive Capital, and existing investors" },
+      { "round": "Share sale (no new money raised — existing employees/investors sold shares)", "year": "2025", "amount": "N/A", "valuation": "$91.5B", "investor": "Not disclosed" },
+      { "round": "Share sale (no new money raised — existing employees/investors sold shares)", "year": "2026", "amount": "N/A", "valuation": "$159B", "investor": "Thrive Capital, Coatue, Andreessen Horowitz" }
+    ],
+    "confidence": "verified",
+    "sources": [
+      { "url": "https://techcrunch.com/2014/01/22/with-an-eye-to-international-growth-payments-company-stripe-raises-80m-from-peter-thiel-khosla-and-sequoia-at-a-1-25b-valuation/", "label": "TechCrunch (Jan 2014)" },
+      { "url": "https://www.finsmes.com/2014/01/stripe-raises-80m-in-series-c-fundingstripe-raises-80m-in-series-c-funding.html", "label": "FinSMEs (Jan 2014)" },
+      { "url": "https://techcrunch.com/2021/03/14/stripe-closes-600m-round-at-a-95b-valuation/", "label": "TechCrunch (Mar 2021)" },
+      { "url": "https://stripe.com/newsroom/news/stripe-series-h", "label": "Stripe Newsroom — Series H (official)" },
+      { "url": "https://techcrunch.com/2023/03/15/stripe-now-valued-at-50b-following-6-5-raise/", "label": "TechCrunch (Mar 2023)" },
+      { "url": "https://stripe.com/newsroom/news/stripe-series-i-employee-liquidity", "label": "Stripe Newsroom — Series I (official)" },
+      { "url": "https://fortune.com/2025/02/27/stripe-valuation-tech-venture-capital-silicon-valley/", "label": "Fortune (Feb 2025)" },
+      { "url": "https://techcrunch.com/2026/02/24/stripes-valuation-soars-74-to-159-billion/", "label": "TechCrunch (Feb 2026)" },
+      { "url": "https://www.bloomberg.com/news/articles/2026-02-24/stripe-hits-159-billion-valuation-as-payment-volume-soars", "label": "Bloomberg (Feb 2026)" }
+    ]
+  },
+  "products": {
+    "items": ["Payments (core payment processing)", "Billing (subscriptions & invoices)", "Connect (pays out multiple sellers for marketplace apps)", "Radar (fraud detection)", "Terminal (in-person card readers)", "Issuing (create physical/virtual cards)", "Treasury (business banking services)", "Tax (calculates and files sales tax)", "Capital (cash advances for businesses)", "Atlas (helps you legally set up a company)", "Identity (verifies who your customers are)"],
+    "confidence": "verified",
+    "sources": [
+      { "url": "https://stripe.com/payments", "label": "Stripe — Payments (official)" },
+      { "url": "https://stripe.com/connect", "label": "Stripe — Connect (official)" },
+      { "url": "https://stripe.com/terminal", "label": "Stripe — Terminal (official)" }
+    ]
+  },
+  "challenges": {
+    "items": [
+      {
+        "challenge": "Existing blockchain networks weren't reliable enough for its digital-currency plans",
+        "details": "Stripe said the blockchain networks most people use today are built for trading and speculation, not for reliably processing everyday payments — pointing to real cases where a busy network caused payment delays of over 12 hours and fees that spiked to 35 times normal. That's part of why Stripe built its own network, called Tempo, with crypto investor Paradigm; it went live in March 2026."
+      },
+      {
+        "challenge": "A rocky start for its bet on AI-driven shopping",
+        "details": "Stripe helped build the technical standard that lets people buy things directly inside ChatGPT. But by March 2026, Walmart — one of the biggest brands using it — said purchases made through the chat window completed about a third as often as ones where people clicked through to Walmart's own website, and pulled back. Analysts also noted only about 30 of an expected 1 million+ Shopify sellers had actually turned the feature on, and OpenAI started scaling the idea back."
+      }
+    ],
+    "confidence": "verified",
+    "sources": [
+      { "url": "https://www.pymnts.com/blockchain/2026/stripe-wants-reinvent-global-settlement-tempo/", "label": "PYMNTS (Feb 2026)" },
+      { "url": "https://www.coindesk.com/tech/2026/03/18/stripe-led-payments-blockchain-tempo-goes-live-with-protocol-for-ai-agents", "label": "CoinDesk (Mar 2026)" },
+      { "url": "https://martech.org/walmart-says-chatgpt-checkout-converted-3x-worse-than-its-own-website/", "label": "MarTech (Mar 20, 2026)" },
+      { "url": "https://www.cnbc.com/2026/03/24/openai-revamps-shopping-experience-in-chatgpt-after-instant-checkout.html", "label": "CNBC (Mar 24, 2026)" }
+    ]
+  },
+  "jobInsights": {
+    "items": [
+      {
+        "category": "Engineering",
+        "text": "The interview process usually goes: a call with a recruiter, then one or more technical/problem-solving interviews, then a final round about how well you'd fit the team culture — rated medium-hard, taking about 3 weeks total. Employee reviews (on Glassdoor and Blind) consistently praise the pay and the quality of coworkers, but repeatedly mention poor work-life balance, uneven quality among middle managers, and an increasingly strict performance-review culture as the company has grown."
+      },
+      {
+        "category": "Sales / Account Executive",
+        "text": "Candidates describe a long hiring process with several rounds of behavior- and skills-based interviews with the hiring manager and future teammates. Current salespeople say the pay is well above the company average, and 79% would recommend the job to a friend — though some mention growing red tape, unclear rules for getting promoted or recognized, and it taking a while to become fully productive in the role."
+      }
+    ],
+    "confidence": "reported",
+    "sources": [
+      { "url": "https://www.glassdoor.com/Interview/Stripe-Software-Engineer-Interview-Questions-EI_IE671932.0,6_KO7,24.htm", "label": "Glassdoor — Software Engineer interviews" },
+      { "url": "https://www.glassdoor.com/Interview/Stripe-Engineering-Manager-Interview-Questions-EI_IE671932.0,6_KO7,26.htm", "label": "Glassdoor — Engineering Manager interviews" },
+      { "url": "https://www.teamblind.com/company/Stripe/reviews", "label": "Blind — Stripe reviews" },
+      { "url": "https://www.glassdoor.com/Reviews/Stripe-Account-Executive-Reviews-EI_IE671932.0,6_KO7,24.htm", "label": "Glassdoor — Account Executive reviews" },
+      { "url": "https://www.glassdoor.com/Interview/Stripe-Account-Executive-Interview-Questions-EI_IE671932.0,6_KO7,24.htm", "label": "Glassdoor — Account Executive interviews" }
+    ]
+  }
+}
