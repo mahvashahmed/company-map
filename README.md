@@ -17,6 +17,10 @@ Job insights: culture signals pulled from employee review sites
 
 Every fact is tagged `verified` (2+ independent sources agree) or `reported` (single-source, use with caution) — so you know exactly how much to trust what you're reading.
 
+### Example
+
+![Stripe search example](screenshots/stripe-example.png)
+
 ## 🚀 Getting started
 
 This is a static site — no `npm install`, no build pipeline. Just serve the folder:
